@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.cachingProxy</groupId>
-	<artifactId>Caching Proxy</artifactId>
+	<artifactId>caching-proxy</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
 	<description/>
